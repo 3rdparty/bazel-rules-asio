@@ -28,7 +28,7 @@ def repos(external = True, repo_mapping = {}):
             git_repository,
             name = "com_github_3rdparty_bazel_rules_asio",
             remote = "https://github.com/3rdparty/bazel-rules-asio",
-            commit = "7700a9944661977602c504ba94a318ca94b97ed8",
-            shallow_since = "1638350109 +0300",
+            commit = "f8019be4000b1a773d2844ca91f46474019d2860",
+            shallow_since = "1639785100 -0800",
             repo_mapping = repo_mapping,
         )
