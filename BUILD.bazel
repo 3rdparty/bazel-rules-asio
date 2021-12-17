@@ -6,4 +6,8 @@ cc_library(
     defines = ["ASIO_STANDALONE"],
     includes = ["asio/include"],
     visibility = ["//visibility:public"],
+    deps = [
+        "@boringssl//:crypto",
+        "@boringssl//:ssl",
+    ],
 )
