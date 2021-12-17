@@ -40,4 +40,4 @@ def deps():
 
 | asio | Copy `bazel/repos.bzl` from: |
 | :---: | :--------------------------: |
-| 1.20.0 | [5e9c8f6](https://github.com/3rdparty/bazel-rules-asio/tree/5e9c8f6751a50b5fbfe0c5792b3e2026955e2bbe) |
+| 1.20.0 | [859bff1](https://github.com/3rdparty/bazel-rules-asio/tree/859bff134da5d28bd1e421085ca5bbfef25f9929) |
