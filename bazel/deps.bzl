@@ -11,8 +11,8 @@ def deps(repo_mapping = {}):
         new_git_repository,
         name = "com_github_chriskohlhoff_asio",
         remote = "https://github.com/chriskohlhoff/asio",
-        commit = "6c054e98f3f53352d12b6cd46d63b6d404cc044b",
-        shallow_since = "1634360358 +1100",
+        commit = "bba12d10501418fd3789ce01c9f86a77d37df7ed",
+        shallow_since = "1647386190 +1100",
         repo_mapping = repo_mapping,
         build_file = "@com_github_3rdparty_bazel_rules_asio//:BUILD.bazel",
     )
